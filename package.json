@@ -1,5 +1,6 @@
 {
   "name": "tinder-clone",
+  "homepage":"https://abhijeetmourya.github.io/Tinder-clone/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
